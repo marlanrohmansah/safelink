@@ -1,7 +1,7 @@
 //<![CDATA[
 var setting = {
 exceptionurl : "google.com,twitter.com",
-path : "/"
+path : "youtubepp.com,youtubepp.com/,id.tokomarlan.com"
 };
 //]]>
 <script src='https://raw.githack.com/marlanrohmansah/safelink/master/bagi2.js'></script>
